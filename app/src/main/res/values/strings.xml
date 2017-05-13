@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Client Php Backend</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered_register_now">Not Registered ? Register Now !</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_now">Already Registered ? Login Now !</string>
+</resources>

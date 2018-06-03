@@ -46,6 +46,8 @@ android_client_php_backend
 
 **Its Flutter CounterPart [Click Here](https://github.com/harsh159357/flutter_client_php_backend)**
 
+**If you are aware of [Postman](https://www.getpostman.com/) you can use [Postman Collection](https://www.getpostman.com/collections/80394d2fc7c2aed05cc5) for Rest API used in this repo**
+
 License
 -------
 

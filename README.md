@@ -21,9 +21,11 @@ android_client_php_backend
     private $user = 'your_user_name';
     private $db = 'your_database';
     private $pass = 'your_password';
+>- Not Interested in doing above steps just clone this repo and use it as it is already hosted on Free Web Host Hostinger [hafinse](https://hafinse.pe.hu)
 
 
 **Things Implemented**
+>- Splash
 >- Login
 >- Registration
 >- Change Password
@@ -42,6 +44,7 @@ android_client_php_backend
 </div>
 <br/>
 
+**Its Flutter CounterPart [Click Here](https://github.com/harsh159357/flutter_client_php_backend)**
 
 License
 -------

@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 
 public class Util {
 
-    public static final String BASE_URL = "http://hafinse.pe.hu/";
+    public static final String BASE_URL = "https://hafinse.000webhostapp.com/";
     public static final String REGISTER_OPERATION = "register";
     public static final String LOGIN_OPERATION = "login";
     public static final String CHANGE_PASSWORD_OPERATION = "chgPass";

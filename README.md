@@ -48,6 +48,19 @@ android_client_php_backend
 
 **If you are aware of [Postman](https://www.getpostman.com/) you can use [Postman Collection](https://www.getpostman.com/collections/80394d2fc7c2aed05cc5) for Rest API used in this repo**
 
+### :heart: Found this project useful?
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+### Project Maintained By
+
+## Harsh Sharma
+
+Android Developer
+
+<a href="http://bit.ly/stackharsh"><img src="https://github.com/aritraroy/social-icons/blob/master/stackoverflow-icon.png?raw=true" width="60"></a>
+<a href="http://bit.ly/lnkdharsh"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="http://bit.ly/harshfb"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+
 License
 -------
 

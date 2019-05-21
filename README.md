@@ -51,9 +51,13 @@ android_client_php_backend
 ### :heart: Found this project useful?
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
+### Last But not Least
+There are still some things which are pending in this project make a pull request to improve this project or suggest an idea
+to improve this project further by raising issues.
+
 ### Project Maintained By
 
-## Harsh Sharma
+# [Harsh Sharma](http://bit.ly/githarsh)
 
 Android Developer
 

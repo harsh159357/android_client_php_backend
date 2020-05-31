@@ -14,13 +14,14 @@
  * limitations under the License.
  */
 
-package com.harsh.androidclientphpbackend.actvity;
+package com.harsh.androidclientphpbackend.activity;
 
 import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.harsh.androidclientphpbackend.R;
 import com.harsh.androidclientphpbackend.fragment.LoginFragment;

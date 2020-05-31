@@ -14,13 +14,14 @@
  * limitations under the License.
  */
 
-package com.harsh.androidclientphpbackend.actvity;
+package com.harsh.androidclientphpbackend.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
 import android.view.MotionEvent;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.harsh.androidclientphpbackend.R;
 import com.harsh.androidclientphpbackend.util.Util;

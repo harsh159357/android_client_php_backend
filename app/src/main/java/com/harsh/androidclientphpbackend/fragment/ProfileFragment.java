@@ -24,9 +24,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
-import android.support.v4.app.ActivityCompat;
-import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -35,8 +32,12 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+import androidx.appcompat.widget.AppCompatButton;
+import androidx.core.app.ActivityCompat;
+
+import com.google.android.material.snackbar.Snackbar;
 import com.harsh.androidclientphpbackend.R;
-import com.harsh.androidclientphpbackend.actvity.SplashActivity;
+import com.harsh.androidclientphpbackend.activity.SplashActivity;
 import com.harsh.androidclientphpbackend.model.ApiRequest;
 import com.harsh.androidclientphpbackend.model.ApiResponse;
 import com.harsh.androidclientphpbackend.model.User;

@@ -21,8 +21,6 @@ import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
-import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -32,6 +30,9 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 
+import androidx.appcompat.widget.AppCompatButton;
+
+import com.google.android.material.snackbar.Snackbar;
 import com.harsh.androidclientphpbackend.R;
 import com.harsh.androidclientphpbackend.model.ApiRequest;
 import com.harsh.androidclientphpbackend.model.ApiResponse;

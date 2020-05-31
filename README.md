@@ -1,12 +1,10 @@
 android_client_php_backend
 =============
 
-### App features will no longer work as https://hafinse.000webhostapp.com/ is deleted by the free hosting due to high usage. Do not create any issue related to that. If you are facing in problem in setting up feel free to mail me at harsh159357@gmail.com
-
 **App Demonstrating the use of Android and PHP.**
 
 >- App Logo Created Using [Logo Maker](http://logomakr.com)
->- For Hosting used [000webhost](https://hafinse.000webhostapp.com/)
+>- For Hosting used [bingedev](https://bingedev.com/)
 >- For Api Interfacing with PHP on App used [Retrofit](https://github.com/square/retrofit)
 
 
@@ -15,7 +13,7 @@ android_client_php_backend
 >- Create a table inside your database using [AndroidClientPhpBackend.sql](https://github.com/harsh159357/android_client_php_backend/blob/master/phpbackend/AndroidClientPhpBackend.sql)
 >- If you are using your own website just edit this thing inside [Util.java](https://github.com/harsh159357/android_client_php_backend/blob/master/app/src/main/java/com/harsh/androidclientphpbackend/util/Util.java)
 
-    public static final String BASE_URL = "https://hafinse.000webhostapp.com/";
+    public static final String BASE_URL = "https://bingedev.com/";
 
 >- Make sure to edit [DBOperations.php](https://github.com/harsh159357/android_client_php_backend/blob/master/phpbackend/DBOperations.php) and change following things -
 
@@ -23,7 +21,7 @@ android_client_php_backend
     private $user = 'your_user_name';
     private $db = 'your_database';
     private $pass = 'your_password';
->- Not Interested in doing above steps just clone this repo and use it as it is already hosted on Free Web Host 000webhost [hafinse](https://hafinse.000webhostapp.com)
+>- Not Interested in doing above steps just clone this repo and use it as it is already hosted [bingedev](https://bingedev.com/)
 
 
 **Things Implemented**

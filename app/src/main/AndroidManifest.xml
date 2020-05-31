@@ -29,7 +29,7 @@
         android:theme="@style/AppTheme.NoActionBar"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
         <activity
-            android:name=".actvity.SplashActivity"
+            android:name=".activity.SplashActivity"
             android:launchMode="singleInstance"
             android:screenOrientation="portrait">
             <intent-filter>
@@ -38,7 +38,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".actvity.MainActivity"
+            android:name=".activity.MainActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
 
